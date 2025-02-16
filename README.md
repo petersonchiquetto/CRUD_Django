@@ -18,7 +18,7 @@ This project is a CRUD (Create, Read, Update, Delete) application developed with
 1️⃣ Clone this repository:
 
 ```bash
-git clone [https://github.com/petersonchiquetto/CRUD_Django.git](https://github.com/petersonchiquetto/CRUD_Django.git)
+git clone [https://github.com/petersonchiquetto/SpaceDjango.git](https://github.com/petersonchiquetto/SpaceDjango.git)
 cd CRUD_Django
 ```
 
